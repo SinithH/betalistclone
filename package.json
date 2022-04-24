@@ -8,6 +8,13 @@
     "start": "next start",
     "lint": "next lint"
   },
+  {
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  }
+},
   "dependencies": {
     "firebase": "^8.10.1",
     "lodash.debounce": "^4.0.8",
